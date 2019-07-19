@@ -14,5 +14,4 @@ understand the development of breast cancer.
 3. Final set of genes causing breast cancer provided in recommendations.csv
 3. Refer to final report analysis for detailed documentation of findings
 ## Done By
-Andrea Esmeralda Halim, LSM3241 CA1 Assignment
-Tan Wei Qi, LSM3241 CA1 Assignment
+Andrea Esmeralda Halim & Tan Wei Qi
